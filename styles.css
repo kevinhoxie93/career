@@ -4,13 +4,14 @@ body {
   margin: 40px auto;
   text-align: center;
   line-height: 1.6;
-  background-color: #f4f4f4;
+  background-color: #c0bfd7;
 }
 .link-container {
-  background-color: white;
+  background-color: rgb(25, 40, 104);
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: white;
 }
 a {
   display: block;
